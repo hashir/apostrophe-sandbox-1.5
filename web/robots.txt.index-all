@@ -1,0 +1,8 @@
+# This robots.txt file ALLOWS ALL INDEXING. It is 
+# suitable for a live production site. When your site
+# is officially public copy this file to robots.txt.
+# In dev, staging, and pre-launch client beta environments 
+# you should use robots.txt.block-all instead.
+
+#User-agent: *
+#Disallow:

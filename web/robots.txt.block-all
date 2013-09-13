@@ -1,0 +1,7 @@
+# This robots.txt is suitable for staging servers and
+# pre-launch production servers. It BLOCKS ALL INDEXING.
+# When making the site live make sure you copy 
+# robots.txt.index-all to robots.txt instead!
+
+User-agent: *
+Disallow: /

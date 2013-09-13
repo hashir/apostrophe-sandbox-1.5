@@ -1,0 +1,2136 @@
+<xliff version="1.0">
+<file original="apostrophe" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>Remember</source>
+<target>Recorda</target>
+</trans-unit>
+<trans-unit id="2">
+<source>The username and/or password is invalid.</source>
+<target>El nom d'usuària o contrasenya són invàlids.</target>
+</trans-unit>
+<trans-unit id="3">
+<source>Save and add</source>
+<target>Desa i afegeix</target>
+</trans-unit>
+<trans-unit id="4">
+<source>Password (again)</source>
+<target>Contrasenya (repetiu)</target>
+</trans-unit>
+<trans-unit id="5">
+<source>All</source>
+<target>Tot</target>
+</trans-unit>
+<trans-unit id="6">
+<source>Image</source>
+<target>Imatge</target>
+</trans-unit>
+<trans-unit id="7">
+<source>Video</source>
+<target>Vídeo</target>
+</trans-unit>
+<trans-unit id="8">
+<source>PDF</source>
+<target>PDF</target>
+</trans-unit>
+<trans-unit id="9">
+<source>Public</source>
+<target>Públic</target>
+</trans-unit>
+<trans-unit id="10">
+<source>Hidden</source>
+<target>Ocult</target>
+</trans-unit>
+<trans-unit id="11">
+<source>Replace File</source>
+<target>Substitueix el fitxer</target>
+</trans-unit>
+<trans-unit id="12">
+<source>Choose a User to Add</source>
+<target>Selecciona una usuària per afegir</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Home Page</source>
+<target>Pàgina d'inici</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Default Page</source>
+<target>Pàgina per defecte</target>
+</trans-unit>
+<trans-unit id="15">
+<source>Template-Based</source>
+<target>Basat en plantilles</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Media</source>
+<target>Multimèdia</target>
+</trans-unit>
+<trans-unit id="17">
+<source>Published</source>
+<target>Publicat</target>
+</trans-unit>
+<trans-unit id="18">
+<source>Unpublished</source>
+<target>No publicat</target>
+</trans-unit>
+<trans-unit id="19">
+<source>results</source>
+<target>resultats</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Login Required</source>
+<target>És necessari iniciar sessió</target>
+</trans-unit>
+<trans-unit id="21">
+<source>Reorganize</source>
+<target>Reorganitza</target>
+</trans-unit>
+<trans-unit id="22">
+<source>Users</source>
+<target>Usuàries</target>
+</trans-unit>
+<trans-unit id="23">
+<source>Plain Text</source>
+<target>Text net</target>
+</trans-unit>
+<trans-unit id="24">
+<source>Rich Text</source>
+<target>Text enriquit</target>
+</trans-unit>
+<trans-unit id="25">
+<source>RSS Feed</source>
+<target>Canal RSS</target>
+</trans-unit>
+<trans-unit id="26">
+<source>Slideshow</source>
+<target>Presentació amb diapositives</target>
+</trans-unit>
+<trans-unit id="27">
+<source>Button</source>
+<target>Botó</target>
+</trans-unit>
+<trans-unit id="28">
+<source>Raw HTML</source>
+<target>HTML net</target>
+</trans-unit>
+<trans-unit id="29">
+<source>Apostrophe Now</source>
+<target>Apostrophe Now</target>
+</trans-unit>
+<trans-unit id="30">
+<source>Picturebook</source>
+<target>Àlbum de fotografies</target>
+</trans-unit>
+<trans-unit id="31">
+<source>Journal</source>
+<target>Diari</target>
+</trans-unit>
+<trans-unit id="32">
+<source>Add Page</source>
+<target>Afegeix una pàgina</target>
+</trans-unit>
+<trans-unit id="33">
+<source>Choose a revision.</source>
+<target>Seleccioneu una versió.</target>
+</trans-unit>
+<trans-unit id="34">
+<source>Date</source>
+<target>Data</target>
+</trans-unit>
+<trans-unit id="35">
+<source>Editor</source>
+<target>Editora</target>
+</trans-unit>
+<trans-unit id="36">
+<source>Preview</source>
+<target>Previsualitza</target>
+</trans-unit>
+<trans-unit id="37">
+<source>View More Revisions</source>
+<target>Veure més versions</target>
+</trans-unit>
+<trans-unit id="38">
+<source>You are previewing another version of this content area. This will not become the current version unless you click "Save As Current Revision." If you change your mind, click "Cancel."</source>
+<target>Esteu previsualitzant un altra versió d'aquesta àrea de contingut. Però no esdevindrà la versió actual llevat que feu clic sobre  "Desa com a versió actual." Si canvieu d'opinió, feu clic sobre "Cancel·la."</target>
+</trans-unit>
+<trans-unit id="39">
+<source>You are logged in as</source>
+<target>Heu iniciat la sessió com a</target>
+</trans-unit>
+<trans-unit id="40">
+<source>Log Out</source>
+<target>Finalitza la sessió</target>
+</trans-unit>
+<trans-unit id="41">
+<source>Double-click to edit.</source>
+<target>Feu doble clic per a editar.</target>
+</trans-unit>
+<trans-unit id="42">
+<source>Hide "Off" Pages</source>
+<target>Oculta les pàgines "Inactives"</target>
+</trans-unit>
+<trans-unit id="43">
+<source>Show "Off" Pages</source>
+<target>Mostra les pàgines "Inactives"</target>
+</trans-unit>
+<trans-unit id="44">
+<source>Options</source>
+<target>Opcions</target>
+</trans-unit>
+<trans-unit id="45">
+<source>Click here to continue.</source>
+<target>Feu clic ací per a continuar.</target>
+</trans-unit>
+<trans-unit id="46">
+<source>ID#</source>
+<target>ID#</target>
+</trans-unit>
+<trans-unit id="47">
+<source>No history found.</source>
+<target>No s'ha trobat cap historial.</target>
+</trans-unit>
+<trans-unit id="48">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href="http://www.getfirefox.com"&gt;Firefox&lt;/a&gt; &lt;a href="http://www.google.com/chrome"&gt;Chrome&lt;/a&gt; 	&lt;a href="http://www.apple.com/safari/download/"&gt;Safari&lt;/a&gt; &lt;a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx"&gt;IE8&lt;/a&gt;</source>
+<target>Esteu usant IE6! Això és terrible! Apostrophe no permet editar amb Internet Explorer 6. Per què no intenteu actualitzar el vostre navegador web? &lt;a href="http://www.getfirefox.com"&gt;Firefox&lt;/a&gt; &lt;a href="http://www.google.com/chrome"&gt;Chrome&lt;/a&gt; 	&lt;a href="http://www.apple.com/safari/download/"&gt;Safari&lt;/a&gt; &lt;a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx"&gt;IE8&lt;/a&gt;</target>
+</trans-unit>
+<trans-unit id="49">
+<source>Drag and drop pages to reorganize the site.</source>
+<target>Per a organitzar el lloc, arrossegueu i deixeu anar les pàgines.</target>
+</trans-unit>
+<trans-unit id="50">
+<source>Search: "%phrase%"</source>
+<target>Cerca: "%phrase%"</target>
+</trans-unit>
+<trans-unit id="51">
+<source>Secure Area &amp;mdash; The page you are looking for requires certain credentials to access it.</source>
+<target>Àrea segura &amp;mdash; La pàgina que esteu mirant requereix unes certes credencials per accedir-hi.</target>
+</trans-unit>
+<trans-unit id="52">
+<source>Go Home.</source>
+<target>Anar a l'Inici.</target>
+</trans-unit>
+<trans-unit id="53">
+<source>Title</source>
+<target>Títol</target>
+</trans-unit>
+<trans-unit id="54">
+<source>apply to subpages</source>
+<target>aplica a les sub-pàgines</target>
+</trans-unit>
+<trans-unit id="55">
+<source>Meta Description</source>
+<target>Descripció</target>
+</trans-unit>
+<trans-unit id="56">
+<source>This page has children that will also be deleted. </source>
+<target>Aquesta pàgina té sub-pàgines que també s'esborraran. </target>
+</trans-unit>
+<trans-unit id="57">
+<source>Delete This Page</source>
+<target>Esborra aquesta pàgina</target>
+</trans-unit>
+<trans-unit id="58">
+<source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+<target>Esteu segura? Aquesta operació no es pot desfer. També podeu canviar l'estat de la pàgina a "no publicada".</target>
+</trans-unit>
+<trans-unit id="59">
+<source>Download Audio File</source>
+<target>Descarrega el fitxer d'àudio</target>
+</trans-unit>
+<trans-unit id="60">
+<source>The item was created successfully.</source>
+<target>L'element s'ha creat amb èxit.</target>
+</trans-unit>
+<trans-unit id="61">
+<source>The item was updated successfully.</source>
+<target>L'element s'ha actualitzat amb èxit.</target>
+</trans-unit>
+<trans-unit id="62">
+<source>You can add another one below.</source>
+<target>Podeu afegir-ne un altre a sota.</target>
+</trans-unit>
+<trans-unit id="63">
+<source>The item has not been saved due to some errors.</source>
+<target>L'element no s'ha desat a causa d'algunes errades.</target>
+</trans-unit>
+<trans-unit id="64">
+<source>You are managing categories for content on your site.</source>
+<target>Esteu gestionant les categories per al contingut del lloc web.</target>
+</trans-unit>
+<trans-unit id="65">
+<source>Click Edit to select a feed URL.</source>
+<target>Premeu edita per a seleccionar un URL del canal.</target>
+</trans-unit>
+<trans-unit id="66">
+<source>Invalid feed.</source>
+<target>El canal no és vàlid.</target>
+</trans-unit>
+<trans-unit id="67">
+<source>Download file</source>
+<target>Descarrega el fitxer</target>
+</trans-unit>
+<trans-unit id="68">
+<source>Selected Tag</source>
+<target>Etiqueta seleccionada</target>
+</trans-unit>
+<trans-unit id="69">
+<source>Popular Tags</source>
+<target>Etiquetes populars</target>
+</trans-unit>
+<trans-unit id="70">
+<source>All Tags</source>
+<target>Totes les etiquetes</target>
+</trans-unit>
+<trans-unit id="71">
+<source>Only images that can be used are displayed below. &lt;br/&gt;Some images in your media library may not be large enough to be selected.</source>
+<target>Només es mostren les imatges que es poden emprar. &lt;br/&gt;Pot ser algunes imatges de la biblioteca multimèdia no siguen suficientment grans.</target>
+</trans-unit>
+<trans-unit id="72">
+<source>A %w%x%h% aspect ratio</source>
+<target>Una relació d'aspecte %w%x%h%</target>
+</trans-unit>
+<trans-unit id="73">
+<source>A minimum width of %mw% pixels</source>
+<target>Una amplada mínima de %mw% píxels</target>
+</trans-unit>
+<trans-unit id="74">
+<source>A minimum height of %mh% pixels</source>
+<target>Una alçada mínima de %mh% píxels</target>
+</trans-unit>
+<trans-unit id="75">
+<source>A width of exactly %w% pixels</source>
+<target>Una amplada de %w% píxels exactament</target>
+</trans-unit>
+<trans-unit id="76">
+<source>A height of exactly %h% pixels</source>
+<target>Una alçada de %h% píxels exactament</target>
+</trans-unit>
+<trans-unit id="77">
+<source>items</source>
+<target>elements</target>
+</trans-unit>
+<trans-unit id="78">
+<source>Displaying only %t% with:</source>
+<target>Mostrant només %t% amb:</target>
+</trans-unit>
+<trans-unit id="79">
+<source>Permissions: Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+<target>Permisos: Les fotografies ocultes es poden usar als espais per a fotos, però no es mostren a la secció Multimèdia.</target>
+</trans-unit>
+<trans-unit id="80">
+<source>%buttonspan%Download Original</source>
+<target>%buttonspan%Descarrega l'original</target>
+</trans-unit>
+<trans-unit id="81">
+<source>Delete</source>
+<target>Esborra</target>
+</trans-unit>
+<trans-unit id="82">
+<source>Are you sure you want to delete this item?</source>
+<target>Esteu segura que voleu esborrar aquest element?</target>
+</trans-unit>
+<trans-unit id="83">
+<source>Example: %embed%</source>
+<target>Exemple: %embed%</target>
+</trans-unit>
+<trans-unit id="84">
+<source>Media Library</source>
+<target>Biblioteca multimèdia</target>
+</trans-unit>
+<trans-unit id="85">
+<source>&lt;span&gt;Permalink:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;Enllaç permanent:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="86">
+<source>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</source>
+<target>&lt;span&gt;Penjat:&lt;/span&gt; %date%</target>
+</trans-unit>
+<trans-unit id="87">
+<source>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</source>
+<target>&lt;span&gt;Dim. originals:&lt;/span&gt; %width%x%height%</target>
+</trans-unit>
+<trans-unit id="88">
+<source>&lt;span&gt;Credit:&lt;/span&gt; %credit%</source>
+<target>&lt;span&gt;Crèdit:&lt;/span&gt; %credit%</target>
+</trans-unit>
+<trans-unit id="89">
+<source>&lt;span&gt;Categories:&lt;/span&gt; %categories%</source>
+<target>&lt;span&gt;Categories:&lt;/span&gt; %categories%</target>
+</trans-unit>
+<trans-unit id="90">
+<source>&lt;span&gt;Tags:&lt;/span&gt; %tags%</source>
+<target>&lt;span&gt;Etiquetes:&lt;/span&gt; %tags%</target>
+</trans-unit>
+<trans-unit id="91">
+<source>Edit</source>
+<target>Edita</target>
+</trans-unit>
+<trans-unit id="92">
+<source>Drag &amp;amp; Drop to Order</source>
+<target>Arrossegueu i deixeu anar per a ordenar</target>
+</trans-unit>
+<trans-unit id="93">
+<source>Select images for your slideshow</source>
+<target>Imatges seleccionades per a la presentació</target>
+</trans-unit>
+<trans-unit id="94">
+<source>Select an image</source>
+<target>Seleccioneu una imatge</target>
+</trans-unit>
+<trans-unit id="95">
+<source>Crop</source>
+<target>Escapça</target>
+</trans-unit>
+<trans-unit id="96">
+<source>Cancel</source>
+<target>Cancel·la</target>
+</trans-unit>
+<trans-unit id="97">
+<source>Save Selection</source>
+<target>Desa la selecció</target>
+</trans-unit>
+<trans-unit id="98">
+<source>Use the browsing and searching features to locate the %type% you want, then click to select it.</source>
+<target>Useu la funció d'explorar o cercar per a localitzar %type% que voleu, aleshores feu clic per a seleccionar-lo.</target>
+</trans-unit>
+<trans-unit id="99">
+<source>Only appropriately sized %typeplural% are shown.</source>
+<target>Només es mostren %typeplural% amb la mida apropiada.</target>
+</trans-unit>
+<trans-unit id="100">
+<source>, </source>
+<target>, </target>
+</trans-unit>
+<trans-unit id="101">
+<source>File too large. Limit is %POSTMAXSIZE%</source>
+<target>El fitxer és massa gran. El límit és %POSTMAXSIZE%</target>
+</trans-unit>
+<trans-unit id="102">
+<source>No matching items were found.</source>
+<target>No s'han trobat elements concordants.</target>
+</trans-unit>
+<trans-unit id="103">
+<source>Annotate </source>
+<target>Anota </target>
+</trans-unit>
+<trans-unit id="104">
+<source>You are editing: %title%</source>
+<target>Esteu editant: %title%</target>
+</trans-unit>
+<trans-unit id="105">
+<source>Editing Video: %title%</source>
+<target>Editant el vídeo: %title%</target>
+</trans-unit>
+<trans-unit id="106">
+<source>Add Video</source>
+<target>Afegeix vídeo</target>
+</trans-unit>
+<trans-unit id="107">
+<source>Clear Search</source>
+<target>Neteja la cerca</target>
+</trans-unit>
+<trans-unit id="108">
+<source>First Page</source>
+<target>Primera pàgina</target>
+</trans-unit>
+<trans-unit id="109">
+<source>Previous Page</source>
+<target>Pàgina anterior</target>
+</trans-unit>
+<trans-unit id="110">
+<source>Next Page</source>
+<target>Següent pàgina</target>
+</trans-unit>
+<trans-unit id="111">
+<source>Last Page</source>
+<target>Última pàgina</target>
+</trans-unit>
+<trans-unit id="112">
+<source>Download PDF</source>
+<target>Descarrega en PDF</target>
+</trans-unit>
+<trans-unit id="113">
+<source>Click edit to add text.</source>
+<target>Cliqueu edita per afegir text.</target>
+</trans-unit>
+<trans-unit id="114">
+<source>Click For Next Image</source>
+<target>Cliqueu per a veure la següent imatge</target>
+</trans-unit>
+<trans-unit id="115">
+<source>Previous</source>
+<target>Anterior</target>
+</trans-unit>
+<trans-unit id="116">
+<source>Next</source>
+<target>Següent</target>
+</trans-unit>
+<trans-unit id="117">
+<source>Photo Credit: %credit%</source>
+<target>Crèdit de la foto: %credit%</target>
+</trans-unit>
+<trans-unit id="118">
+<source>Category</source>
+<target>Categoria</target>
+</trans-unit>
+<trans-unit id="119">
+<source>Tags</source>
+<target>Etiquetes</target>
+</trans-unit>
+<trans-unit id="120">
+<source>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</source>
+<target>&lt;p&gt;Si voleu concedir l'habilitat d'edició d'una part del lloc web a una usuària, primer afegiu-la al grup  &lt;b&gt;editor&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Tot seguit, aneu a l'àrea del lloc web i cliqueu la icona de l'engranatge per afegir-la a la llista d'usuàries que poden editar aquesta àrea.&lt;/p&gt;&lt;p&gt;Si voleu que una usuària tinga control absolut sobre tot el lloc web, afegiu-la al grup &lt;b&gt;admin&lt;/b&gt;.&lt;/p&gt;</target>
+</trans-unit>
+<trans-unit id="121">
+<source>New</source>
+<target>Nou</target>
+</trans-unit>
+<trans-unit id="122">
+<source>User Dashboard</source>
+<target>Panell d'usuàries</target>
+</trans-unit>
+<trans-unit id="123">
+<source>Add User</source>
+<target>Afegeix una usuària</target>
+</trans-unit>
+<trans-unit id="124">
+<source>Group Dashboard</source>
+<target>Panell de grups</target>
+</trans-unit>
+<trans-unit id="125">
+<source>Add Group</source>
+<target>Afegeix un grup</target>
+</trans-unit>
+<trans-unit id="126">
+<source>Permissions Dashboard</source>
+<target>Panell de permisos</target>
+</trans-unit>
+<trans-unit id="127">
+<source>Add Permission</source>
+<target>Afegeix un permís</target>
+</trans-unit>
+<trans-unit id="128">
+<source>Posted By:</source>
+<target>Escrit per:</target>
+</trans-unit>
+<trans-unit id="129">
+<source>Blog Post Admin</source>
+<target>Administració del bloc</target>
+</trans-unit>
+<trans-unit id="130">
+<source>View All Posts</source>
+<target>Veure totes les entrades</target>
+</trans-unit>
+<trans-unit id="131">
+<source>Search by Title</source>
+<target>Cerca per títol</target>
+</trans-unit>
+<trans-unit id="132">
+<source>View All Events</source>
+<target>Veure tots els esdeveniments</target>
+</trans-unit>
+<trans-unit id="133">
+<source>Filters</source>
+<target>Filtres</target>
+</trans-unit>
+<trans-unit id="134">
+<source>No result</source>
+<target>No hi ha resultats</target>
+</trans-unit>
+<trans-unit id="135">
+<source>Actions</source>
+<target>Accions</target>
+</trans-unit>
+<trans-unit id="136">
+<source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+<target>[0] no hi ha resultats|[1] 1 resultat|(1,+Inf] %1% resultats</target>
+</trans-unit>
+<trans-unit id="137">
+<source>User list</source>
+<target>Llista d'usuàries</target>
+</trans-unit>
+<trans-unit id="138">
+<source>Choose an action</source>
+<target>Trieu una acció</target>
+</trans-unit>
+<trans-unit id="139">
+<source>Checked</source>
+<target>Activat</target>
+</trans-unit>
+<trans-unit id="140">
+<source>%%username%% - %%first_name%% - %%last_name%% - %%created_at%% - %%last_login%%</source>
+<target>%%username%% - %%first_name%% - %%last_name%% - %%created_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="141">
+<source>Username</source>
+<target>Nom d'usuària</target>
+</trans-unit>
+<trans-unit id="142">
+<source>First name</source>
+<target>Nom</target>
+</trans-unit>
+<trans-unit id="143">
+<source>Last name</source>
+<target>Cognoms</target>
+</trans-unit>
+<trans-unit id="144">
+<source>Created at</source>
+<target>Creat el</target>
+</trans-unit>
+<trans-unit id="145">
+<source>Last login</source>
+<target>Última visita</target>
+</trans-unit>
+<trans-unit id="146">
+<source>Editing User "%%username%%"</source>
+<target>Editant la usuària "%%username%%"</target>
+</trans-unit>
+<trans-unit id="147">
+<source>New User</source>
+<target>Nova usuària</target>
+</trans-unit>
+<trans-unit id="148">
+<source>Permission list</source>
+<target>Llista de permisos</target>
+</trans-unit>
+<trans-unit id="149">
+<source>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</target>
+</trans-unit>
+<trans-unit id="150">
+<source>Name</source>
+<target>Nom</target>
+</trans-unit>
+<trans-unit id="151">
+<source>Description</source>
+<target>Descripció</target>
+</trans-unit>
+<trans-unit id="152">
+<source>Updated at</source>
+<target>Actualitzat el</target>
+</trans-unit>
+<trans-unit id="153">
+<source>Editing Permission "%%name%%"</source>
+<target>Editant el permís "%%name%%"</target>
+</trans-unit>
+<trans-unit id="154">
+<source>New Permission</source>
+<target>Nou permís</target>
+</trans-unit>
+<trans-unit id="155">
+<source>Group list</source>
+<target>Llista de grups</target>
+</trans-unit>
+<trans-unit id="156">
+<source>%%name%% - %%description%% - %%created_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%%</target>
+</trans-unit>
+<trans-unit id="157">
+<source>Editing Group "%%name%%"</source>
+<target>Editant el grup "%%name%%"</target>
+</trans-unit>
+<trans-unit id="158">
+<source>New Group</source>
+<target>Nou Grup</target>
+</trans-unit>
+<trans-unit id="159">
+<source>New Post</source>
+<target>Nova entrada</target>
+</trans-unit>
+<trans-unit id="160">
+<source>Blog Admin</source>
+<target>Administració del bloc</target>
+</trans-unit>
+<trans-unit id="161">
+<source>Publish</source>
+<target>Publica</target>
+</trans-unit>
+<trans-unit id="162">
+<source>Unpublish</source>
+<target>Oculta</target>
+</trans-unit>
+<trans-unit id="163">
+<source>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%published_at%%</source>
+<target>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%published_at%%</target>
+</trans-unit>
+<trans-unit id="164">
+<source>&lt;span class="icon"&gt;&lt;/span&gt;Descending</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt;Descendent</target>
+</trans-unit>
+<trans-unit id="165">
+<source>&lt;span class="icon"&gt;&lt;/span&gt;Ascending</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt;Ascendent</target>
+</trans-unit>
+<trans-unit id="166">
+<source>Ascending</source>
+<target>Ascendent</target>
+</trans-unit>
+<trans-unit id="167">
+<source>Author</source>
+<target>Autora</target>
+</trans-unit>
+<trans-unit id="168">
+<source>Editors</source>
+<target>Editores</target>
+</trans-unit>
+<trans-unit id="169">
+<source>Categories</source>
+<target>Categories</target>
+</trans-unit>
+<trans-unit id="170">
+<source>Status</source>
+<target>Estat</target>
+</trans-unit>
+<trans-unit id="171">
+<source>Edit ABlogAdmin</source>
+<target>Edita ABlogAdmin</target>
+</trans-unit>
+<trans-unit id="172">
+<source>New ABlogAdmin</source>
+<target>Nou ABlogAdmin</target>
+</trans-unit>
+<trans-unit id="173">
+<source>&lt;span class="icon"&gt;&lt;/span&gt;New Event</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt;Nou esdeveniment</target>
+</trans-unit>
+<trans-unit id="174">
+<source>Event Admin</source>
+<target>Administració d'esdeveniments</target>
+</trans-unit>
+<trans-unit id="175">
+<source>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%start_date%%</source>
+<target>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%start_date%%</target>
+</trans-unit>
+<trans-unit id="176">
+<source>Edit AEventAdmin</source>
+<target>Edita AEventAdmin</target>
+</trans-unit>
+<trans-unit id="177">
+<source>New AEventAdmin</source>
+<target>Nou AEventAdmin</target>
+</trans-unit>
+<trans-unit id="178">
+<source>&lt;span class="icon"&gt;&lt;/span&gt; New Tag</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt; Nova etiqueta</target>
+</trans-unit>
+<trans-unit id="179">
+<source>&lt;span class="icon"&gt;&lt;/span&gt; Clean Tags</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt; Esborra les etiquetes</target>
+</trans-unit>
+<trans-unit id="180">
+<source>Tags Admin</source>
+<target>Administració d'etiquetes</target>
+</trans-unit>
+<trans-unit id="181">
+<source>%%name%% - %%tag_aBlogPost%% - %%tag_aEvent%% - %%tag_aMediaItem%% - %%tag_aPage%%</source>
+<target>%%name%% - %%tag_aBlogPost%% - %%tag_aEvent%% - %%tag_aMediaItem%% - %%tag_aPage%%</target>
+</trans-unit>
+<trans-unit id="182">
+<source>Tag</source>
+<target>Etiqueta</target>
+</trans-unit>
+<trans-unit id="183">
+<source>Blog</source>
+<target>Bloc</target>
+</trans-unit>
+<trans-unit id="184">
+<source>Events</source>
+<target>Esdeveniments</target>
+</trans-unit>
+<trans-unit id="185">
+<source>Pages</source>
+<target>Pàgines</target>
+</trans-unit>
+<trans-unit id="186">
+<source>Edit Tag</source>
+<target>Edita l'etiqueta</target>
+</trans-unit>
+<trans-unit id="187">
+<source>New Tag</source>
+<target>Nova etiqueta</target>
+</trans-unit>
+<trans-unit id="188">
+<source>&lt;span class="icon"&gt;&lt;/span&gt;New Category</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt;Nova categoria</target>
+</trans-unit>
+<trans-unit id="189">
+<source>Categories Admin</source>
+<target>Administració de categories</target>
+</trans-unit>
+<trans-unit id="190">
+<source>%%name%% - %%users%% - %%groups%%</source>
+<target>%%name%% - %%users%% - %%groups%%</target>
+</trans-unit>
+<trans-unit id="191">
+<source>Active Users</source>
+<target>Usuàries actives</target>
+</trans-unit>
+<trans-unit id="192">
+<source>Groups</source>
+<target>Grups</target>
+</trans-unit>
+<trans-unit id="193">
+<source>Blog Posts</source>
+<target>Entrades del bloc</target>
+</trans-unit>
+<trans-unit id="194">
+<source>Edit Category</source>
+<target>Edita la categoria</target>
+</trans-unit>
+<trans-unit id="195">
+<source>New Category</source>
+<target>Nova categoria</target>
+</trans-unit>
+<trans-unit id="196">
+<source>Required.</source>
+<target>Necessari.</target>
+</trans-unit>
+<trans-unit id="197">
+<source>Invalid.</source>
+<target>Invàlid.</target>
+</trans-unit>
+<trans-unit id="198">
+<source>"%value%" is too long (%max_length% characters max).</source>
+<target>"%value%" és massa llarg (%max_length% caràcters com a màxim).</target>
+</trans-unit>
+<trans-unit id="199">
+<source>"%value%" is too short (%min_length% characters min).</source>
+<target>"%value%" és massa curt (%min_length% caràcters com a mínim).</target>
+</trans-unit>
+<trans-unit id="200">
+<source>Groups list</source>
+<target>Llista de grups</target>
+</trans-unit>
+<trans-unit id="201">
+<source>At least %min% values must be selected (%count% values selected).</source>
+<target>Com a mínim s'han de seleccionar %min% valors (hi ha %count% seleccionats).</target>
+</trans-unit>
+<trans-unit id="202">
+<source>At most %max% values must be selected (%count% values selected).</source>
+<target>Com a màxim s'han de seleccionar %max% valors (hi ha %count% seleccionats).</target>
+</trans-unit>
+<trans-unit id="203">
+<source>Users list</source>
+<target>Llista d'usuàries</target>
+</trans-unit>
+<trans-unit id="204">
+<source>Id</source>
+<target>Id</target>
+</trans-unit>
+<trans-unit id="205">
+<source> csrf token</source>
+<target> token csrf</target>
+</trans-unit>
+<trans-unit id="206">
+<source>CSRF attack detected.</source>
+<target>S'ha detectat un atac CSRF.</target>
+</trans-unit>
+<trans-unit id="207">
+<source>Group</source>
+<target>Grup</target>
+</trans-unit>
+<trans-unit id="208">
+<source>User</source>
+<target>Usuària</target>
+</trans-unit>
+<trans-unit id="209">
+<source>Service</source>
+<target>Servei</target>
+</trans-unit>
+<trans-unit id="210">
+<source>Type</source>
+<target>Tipus</target>
+</trans-unit>
+<trans-unit id="211">
+<source>Service url</source>
+<target>URL del servei</target>
+</trans-unit>
+<trans-unit id="212">
+<source>Format</source>
+<target>Format</target>
+</trans-unit>
+<trans-unit id="213">
+<source>Width</source>
+<target>Amplada</target>
+</trans-unit>
+<trans-unit id="214">
+<source>"%value%" is not an integer.</source>
+<target>"%value%" no és un enter.</target>
+</trans-unit>
+<trans-unit id="215">
+<source>"%value%" must be at most %max%.</source>
+<target>"%value%" ha de ser com a molt %max%.</target>
+</trans-unit>
+<trans-unit id="216">
+<source>"%value%" must be at least %min%.</source>
+<target>"%value%" ha de ser com a mínim %min%.</target>
+</trans-unit>
+<trans-unit id="217">
+<source>Height</source>
+<target>Alçada</target>
+</trans-unit>
+<trans-unit id="218">
+<source>Embed</source>
+<target>Incrusta</target>
+</trans-unit>
+<trans-unit id="219">
+<source>You must provide a title.</source>
+<target>Heu de proporcionar un títol.</target>
+</trans-unit>
+<trans-unit id="220">
+<source>Title must be &lt;200 characters.</source>
+<target>El títol ha de tenir &lt;200 caràcters.</target>
+</trans-unit>
+<trans-unit id="221">
+<source>Title must be at least 3 characters.</source>
+<target>El títol ha de tenir com a mínim 3 caràcters.</target>
+</trans-unit>
+<trans-unit id="222">
+<source>Credit</source>
+<target>Crèdit</target>
+</trans-unit>
+<trans-unit id="223">
+<source>Permissions</source>
+<target>Permisos</target>
+</trans-unit>
+<trans-unit id="224">
+<source>Slug</source>
+<target>Camí</target>
+</trans-unit>
+<trans-unit id="225">
+<source>Categories list add</source>
+<target>Afegeix llista de categories</target>
+</trans-unit>
+<trans-unit id="226">
+<source>Template</source>
+<target>Plantilla</target>
+</trans-unit>
+<trans-unit id="227">
+<source>View is secure</source>
+<target>Visualització segura</target>
+</trans-unit>
+<trans-unit id="228">
+<source>View guest</source>
+<target>Visualització pública</target>
+</trans-unit>
+<trans-unit id="229">
+<source>Edit admin lock</source>
+<target>Edita el bloqueig d'administrador</target>
+</trans-unit>
+<trans-unit id="230">
+<source>View admin lock</source>
+<target>Veure el bloqueig d'administrador</target>
+</trans-unit>
+<trans-unit id="231">
+<source>Published at</source>
+<target>Publicat el</target>
+</trans-unit>
+<trans-unit id="232">
+<source>"%value%" does not match the date format (%date_format%).</source>
+<target>"%value%" no concorda amb el format de data (%date_format%).</target>
+</trans-unit>
+<trans-unit id="233">
+<source>The date must be before %max%.</source>
+<target>La data ha de ser anterior a %max%.</target>
+</trans-unit>
+<trans-unit id="234">
+<source>The date must be after %min%.</source>
+<target>La data ha de ser posterior a %min%.</target>
+</trans-unit>
+<trans-unit id="235">
+<source>Archived</source>
+<target>Arxivat</target>
+</trans-unit>
+<trans-unit id="236">
+<source>Admin</source>
+<target>Admin</target>
+</trans-unit>
+<trans-unit id="237">
+<source>Deleter</source>
+<target>Esborrat per</target>
+</trans-unit>
+<trans-unit id="238">
+<source>Engine</source>
+<target>Motor</target>
+</trans-unit>
+<trans-unit id="239">
+<source>Lft</source>
+<target>Esq</target>
+</trans-unit>
+<trans-unit id="240">
+<source>Rgt</source>
+<target>Drt</target>
+</trans-unit>
+<trans-unit id="241">
+<source>Level</source>
+<target>Nivell</target>
+</trans-unit>
+<trans-unit id="242">
+<source>Categories list</source>
+<target>Llista de categories</target>
+</trans-unit>
+<trans-unit id="243">
+<source>Page</source>
+<target>Pàgina</target>
+</trans-unit>
+<trans-unit id="244">
+<source>Text</source>
+<target>Text</target>
+</trans-unit>
+<trans-unit id="245">
+<source>Your field contains unsupported HTML tags.</source>
+<target>El camp conté etiquetes HTML no admeses.</target>
+</trans-unit>
+<trans-unit id="246">
+<source>Url</source>
+<target>Url</target>
+</trans-unit>
+<trans-unit id="247">
+<source>Content Categories</source>
+<target>Categories de contingut</target>
+</trans-unit>
+<trans-unit id="248">
+<source>RSS Feed URL</source>
+<target>URL del canal RSS</target>
+</trans-unit>
+<trans-unit id="249">
+<source>Language</source>
+<target>Idioma</target>
+</trans-unit>
+<trans-unit id="250">
+<source>Search</source>
+<target>Cerca</target>
+</trans-unit>
+<trans-unit id="251">
+<source>Select a new file</source>
+<target>Seleccioneu un fitxer nou</target>
+</trans-unit>
+<trans-unit id="252">
+<source>File is too large (maximum is %max_size% bytes).</source>
+<target>El fitxer és massa gran (el màxim és %max_size% bytes).</target>
+</trans-unit>
+<trans-unit id="253">
+<source>The following file types are accepted: gif, png, jpg, pdf, mp3, xls, ppt, doc, pptx, sldx, ppsx, potx, xlsx, xltx, docx, dotx, txt, rtf</source>
+<target>Estan permesos els següents tipus de fitxers: gif, png, jpg, pdf, mp3, xls, ppt, doc, pptx, sldx, ppsx, potx, xlsx, xltx, docx, dotx, txt, rtf</target>
+</trans-unit>
+<trans-unit id="254">
+<source>The uploaded file was only partially uploaded.</source>
+<target>El fitxer penjat només s'ha enviat parcialment.</target>
+</trans-unit>
+<trans-unit id="255">
+<source>Missing a temporary folder.</source>
+<target>Falta una carpeta temporal.</target>
+</trans-unit>
+<trans-unit id="256">
+<source>Failed to write file to disk.</source>
+<target>No s'ha pogut desar el fitxer al disc.</target>
+</trans-unit>
+<trans-unit id="257">
+<source>File upload stopped by extension.</source>
+<target>L'enviament del fitxer s'ha aturat degut a l'extensió.</target>
+</trans-unit>
+<trans-unit id="258">
+<source>Item-1</source>
+<target>Element-1</target>
+</trans-unit>
+<trans-unit id="259">
+<source>Unexpected extra form field named "%field%".</source>
+<target>Hi ha un camp extra "%field%" inesperat.</target>
+</trans-unit>
+<trans-unit id="260">
+<source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+<target>No es pot processar el formulari. Probablement heu enviat un fitxer massa gran.</target>
+</trans-unit>
+<trans-unit id="261">
+<source>File</source>
+<target>Fitxer</target>
+</trans-unit>
+<trans-unit id="262">
+<source>Only JPEG, PNG and GIF-format images are accepted.</source>
+<target>Només s'accepten imatges en format JPEG, PNG i GIF.</target>
+</trans-unit>
+<trans-unit id="263">
+<source>Item-0</source>
+<target>Element-0</target>
+</trans-unit>
+<trans-unit id="264">
+<source>Item-2</source>
+<target>Element-2</target>
+</trans-unit>
+<trans-unit id="265">
+<source>Item-3</source>
+<target>Element-3</target>
+</trans-unit>
+<trans-unit id="266">
+<source>Item-4</source>
+<target>Element-4</target>
+</trans-unit>
+<trans-unit id="267">
+<source>Item-5</source>
+<target>Element-5</target>
+</trans-unit>
+<trans-unit id="268">
+<source>Embed Code or URL</source>
+<target>Incrusteu codi o un URL</target>
+</trans-unit>
+<trans-unit id="269">
+<source>Choose Thumbnail</source>
+<target>Seleccioneu una miniatura</target>
+</trans-unit>
+<trans-unit id="270">
+<source>Select a JPEG, PNG or GIF file as a thumbnail</source>
+<target>Seleccioneu com a miniatura un fitxer JPEG, PNG o GIF.</target>
+</trans-unit>
+<trans-unit id="271">
+<source>JPEG, PNG and GIF only.</source>
+<target>Només JPEG, PNG i GIF.</target>
+</trans-unit>
+<trans-unit id="272">
+<source>The permalink cannot be empty.</source>
+<target>L'enllaç permanent no pot estar buit.</target>
+</trans-unit>
+<trans-unit id="273">
+<source>The permalink must contain only slashes, letters, digits, dashes and underscores. There must be a leading slash. Also, you cannot change a permalink to conflict with an existing permalink.</source>
+<target>L'enllaç permanent només pot contenir barres, lletres, dígits, guions i guions baixos. Primer ha d'haver una barra. A més a més, no podeu canviar un enllaç permanent si això genera un conflicte amb un altre enllaç existent.</target>
+</trans-unit>
+<trans-unit id="274">
+<source>View options</source>
+<target>Veure les opcions</target>
+</trans-unit>
+<trans-unit id="275">
+<source>View individuals</source>
+<target>Veure els individus</target>
+</trans-unit>
+<trans-unit id="276">
+<source>View groups</source>
+<target>Veure els grups</target>
+</trans-unit>
+<trans-unit id="277">
+<source>Joinedtemplate</source>
+<target>Plantilla unida</target>
+</trans-unit>
+<trans-unit id="278">
+<source>Real meta description</source>
+<target>Descripció real</target>
+</trans-unit>
+<trans-unit id="279">
+<source>Edit individuals</source>
+<target>Edita els individus</target>
+</trans-unit>
+<trans-unit id="280">
+<source>Edit groups</source>
+<target>Edita els grups</target>
+</trans-unit>
+<trans-unit id="281">
+<source>Realtitle</source>
+<target>Títol real</target>
+</trans-unit>
+<trans-unit id="282">
+<source>The title cannot be empty.</source>
+<target>El títol no pot estar buit.</target>
+</trans-unit>
+<trans-unit id="283">
+<source>Value</source>
+<target>Valor</target>
+</trans-unit>
+<trans-unit id="284">
+<source>Count</source>
+<target>Compte</target>
+</trans-unit>
+<trans-unit id="285">
+<source>"%value%" is not a number.</source>
+<target>"%value%" no és un nombre.</target>
+</trans-unit>
+<trans-unit id="286">
+<source>Tags list</source>
+<target>Llista d'etiquetes</target>
+</trans-unit>
+<trans-unit id="287">
+<source>Email address</source>
+<target>Adreça de correu</target>
+</trans-unit>
+<trans-unit id="288">
+<source>Password</source>
+<target>Contrasenya</target>
+</trans-unit>
+<trans-unit id="289">
+<source>Password again</source>
+<target>Contrasenya (repetiu)</target>
+</trans-unit>
+<trans-unit id="290">
+<source>Is active</source>
+<target>Està activa</target>
+</trans-unit>
+<trans-unit id="291">
+<source>There are no blog posts that match the criteria you have specified.</source>
+<target>No hi ha entrades que concordin amb els criteris especificats.</target>
+</trans-unit>
+<trans-unit id="292">
+<source>That is not a valid YouTube video URL.</source>
+<target>L'URL no és vàlid com a vídeo de YouTube.</target>
+</trans-unit>
+<trans-unit id="293">
+<source>+ Add an Individual</source>
+<target>+ Afegeix un usuari</target>
+</trans-unit>
+<trans-unit id="294">
+<source>Today</source>
+<target>Avui</target>
+</trans-unit>
+<trans-unit id="295">
+<source>Parent</source>
+<target>Predecessor</target>
+</trans-unit>
+<trans-unit id="296">
+<source>You are viewing posts</source>
+<target>Esteu veient les entrades</target>
+</trans-unit>
+<trans-unit id="297">
+<source>Add Blog Heading</source>
+<target>Afegeix un titular</target>
+</trans-unit>
+<trans-unit id="298">
+<source>Authors</source>
+<target>Autores</target>
+</trans-unit>
+<trans-unit id="299">
+<source>There are no %type%</source>
+<target>No hi ha %type%</target>
+</trans-unit>
+<trans-unit id="300">
+<source>Move Up</source>
+<target>Puja</target>
+</trans-unit>
+<trans-unit id="301">
+<source>Add by YouTube URL</source>
+<target>Afegeix amb URL de YouTube</target>
+</trans-unit>
+<trans-unit id="302">
+<source>Search Events</source>
+<target>Cerca esdeveniments</target>
+</trans-unit>
+<trans-unit id="303">
+<source>Add Multiple Files</source>
+<target>Afegeix més fitxers</target>
+</trans-unit>
+<trans-unit id="304">
+<source>Select a PDF File</source>
+<target>Seleccioneu un fitxer PDF</target>
+</trans-unit>
+<trans-unit id="305">
+<source>posts</source>
+<target>entrades</target>
+</trans-unit>
+<trans-unit id="306">
+<source>Rank</source>
+<target>Rang</target>
+</trans-unit>
+<trans-unit id="307">
+<source>Select%buttonspan%</source>
+<target>Selecciona%buttonspan%</target>
+</trans-unit>
+<trans-unit id="308">
+<source>Categorized</source>
+<target>A las categories</target>
+</trans-unit>
+<trans-unit id="309">
+<source>Go</source>
+<target>Accepta</target>
+</trans-unit>
+<trans-unit id="310">
+<source>Are you sure you want to delete this page and all of its children? This operation cannot be done.</source>
+<target>Esteu segura que voleu esborrar aquesta pàgina i totes les sub-pàgines? Aquesta operació no es pot desfer.</target>
+</trans-unit>
+<trans-unit id="311">
+<source>Admins Only</source>
+<target>Només administradors</target>
+</trans-unit>
+<trans-unit id="312">
+<source>Version</source>
+<target>Versió</target>
+</trans-unit>
+<trans-unit id="313">
+<source>Add  Media</source>
+<target>Afegeix multimèdia</target>
+</trans-unit>
+<trans-unit id="314">
+<source>Lock this page so only admins can edit or delete.</source>
+<target>Bloqueja la pàgina (només els administradors podran modificar i esborrar)</target>
+</trans-unit>
+<trans-unit id="315">
+<source>Search YouTube</source>
+<target>Cerca a YouTube</target>
+</trans-unit>
+<trans-unit id="316">
+<source>Htpasswd</source>
+<target>Htpasswd</target>
+</trans-unit>
+<trans-unit id="317">
+<source>Page Settings</source>
+<target>Configuració de la pàgina</target>
+</trans-unit>
+<trans-unit id="318">
+<source>Are you sure you want to delete this post?</source>
+<target>Esteu segura que voleu esborrar aquesta entrada?</target>
+</trans-unit>
+<trans-unit id="319">
+<source>Upload Media</source>
+<target>Puja multimèdia</target>
+</trans-unit>
+<trans-unit id="320">
+<source>Full Feed</source>
+<target>Canal complet</target>
+</trans-unit>
+<trans-unit id="321">
+<source>Save as Current Revision</source>
+<target>Desa com a revisió actual</target>
+</trans-unit>
+<trans-unit id="322">
+<source>Page Status</source>
+<target>Estat de la pàgina</target>
+</trans-unit>
+<trans-unit id="323">
+<source>By Title</source>
+<target>Per títol</target>
+</trans-unit>
+<trans-unit id="324">
+<source>Add Slot</source>
+<target>Afegeix un espai</target>
+</trans-unit>
+<trans-unit id="325">
+<source>1 result was found.</source>
+<target>S'ha trobat 1 resultat.</target>
+</trans-unit>
+<trans-unit id="326">
+<source>W</source>
+<target>dc</target>
+</trans-unit>
+<trans-unit id="327">
+<source>Add to Outlook, iCal, etc.</source>
+<target>Afegeix a Outlook, iCal, etc.</target>
+</trans-unit>
+<trans-unit id="328">
+<source>Add by URL</source>
+<target>Afegeix amb URL</target>
+</trans-unit>
+<trans-unit id="329">
+<source>Select a Video</source>
+<target>Selecciona un vídeo</target>
+</trans-unit>
+<trans-unit id="330">
+<source>You are browsing past revisions for this area.</source>
+<target>Esteu mirant revisions anteriors d'aquesta àrea.</target>
+</trans-unit>
+<trans-unit id="331">
+<source>Cascade privacy changes to children</source>
+<target>Aplica la privacitat a les sub-pàgines</target>
+</trans-unit>
+<trans-unit id="332">
+<source>Your Linked Accounts</source>
+<target>Comptes enllaçats</target>
+</trans-unit>
+<trans-unit id="333">
+<source>Rename</source>
+<target>Canvia el nom</target>
+</trans-unit>
+<trans-unit id="334">
+<source>F</source>
+<target>dv</target>
+</trans-unit>
+<trans-unit id="335">
+<source>Su</source>
+<target>dg</target>
+</trans-unit>
+<trans-unit id="336">
+<source>Media Categories</source>
+<target>Categories multimèdia</target>
+</trans-unit>
+<trans-unit id="337">
+<source>Tagged</source>
+<target>Etiquetades</target>
+</trans-unit>
+<trans-unit id="338">
+<source>Paste an embed code</source>
+<target>Enganxeu un codi incrustat</target>
+</trans-unit>
+<trans-unit id="339">
+<source>Managers</source>
+<target>Gestores</target>
+</trans-unit>
+<trans-unit id="340">
+<source>Page Privacy</source>
+<target>Privacitat</target>
+</trans-unit>
+<trans-unit id="341">
+<source>Day</source>
+<target>Dia</target>
+</trans-unit>
+<trans-unit id="342">
+<source>%width%x%height%</source>
+<target>%width%x%height%</target>
+</trans-unit>
+<trans-unit id="343">
+<source>Are you sure you want to delete this event?</source>
+<target>Esteu segura que voleu esborrar aquest esdeveniment</target>
+</trans-unit>
+<trans-unit id="344">
+<source>Example: http://www.youtube.com/watch?v=EwTZ2xpQwpA</source>
+<target>Exemple: http://www.youtube.com/watch?v=EwTZ2xpQwpA</target>
+</trans-unit>
+<trans-unit id="345">
+<source>Choose Categories</source>
+<target>Seleccioneu categories</target>
+</trans-unit>
+<trans-unit id="346">
+<source>You are previewing another version of this material. This will not become the current version unless you click "Save As Current Revision." If you change your mind, click "Cancel."</source>
+<target>Esteu previsualitzant un altra versió d'aquest material. No es convertirà en la versió actual llevat que premeu "Desa com a revisió actual." Si canvieu d'opinió, premeu "Cancel·lar."</target>
+</trans-unit>
+<trans-unit id="347">
+<source>View %account% on %service%</source>
+<target>Mostra %account% a %service%</target>
+</trans-unit>
+<trans-unit id="348">
+<source>Manage Linked Accounts</source>
+<target>Gestioneu els comptes enllaçats</target>
+</trans-unit>
+<trans-unit id="349">
+<source>Choose image</source>
+<target>Selecciona imatge</target>
+</trans-unit>
+<trans-unit id="350">
+<source>Move Down</source>
+<target>Baixar</target>
+</trans-unit>
+<trans-unit id="351">
+<source>Comments are disabled</source>
+<target>Els comentaris estan inhabilitats</target>
+</trans-unit>
+<trans-unit id="352">
+<source>You are viewing %count% %type% %filters%</source>
+<target>Esteu veient %count% %type% %filters%</target>
+</trans-unit>
+<trans-unit id="353">
+<source>Delete Slot</source>
+<target>Esborra l'espai</target>
+</trans-unit>
+<trans-unit id="354">
+<source>Upload Photos</source>
+<target>Pengeu fotos</target>
+</trans-unit>
+<trans-unit id="355">
+<source>Inset Image</source>
+<target>Text amb imatge inserida</target>
+</trans-unit>
+<trans-unit id="356">
+<source>No results were found.</source>
+<target>No s'han trobat resultats.</target>
+</trans-unit>
+<trans-unit id="357">
+<source>Add Images</source>
+<target>Afegeix imatges</target>
+</trans-unit>
+<trans-unit id="358">
+<source>Area version</source>
+<target>Versió de l'àrea</target>
+</trans-unit>
+<trans-unit id="359">
+<source>Search By Name</source>
+<target>Cerca per nom</target>
+</trans-unit>
+<trans-unit id="360">
+<source>Click edit to add raw HTML markup, such as embed codes.</source>
+<target>Premeu edita per afegir codi HTML directe, com ara bé un codi incrustat.</target>
+</trans-unit>
+<trans-unit id="361">
+<source>Click to disable comments</source>
+<target>Premeu per a inhabilitar els comentaris</target>
+</trans-unit>
+<trans-unit id="362">
+<source>Edit Permissions</source>
+<target>Permisos de modificació</target>
+</trans-unit>
+<trans-unit id="363">
+<source>Add Events Heading</source>
+<target>Afegeix un titular</target>
+</trans-unit>
+<trans-unit id="364">
+<source>Invalid URL. A valid example: http://www.punkave.com/</source>
+<target>URL invàlid. Exemple vàlid: http://www.punkave.com/</target>
+</trans-unit>
+<trans-unit id="365">
+<source>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</source>
+<target>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="366">
+<source>Editing PDF: %title%</source>
+<target>Editant PDF: %title%</target>
+</trans-unit>
+<trans-unit id="367">
+<source>edit</source>
+<target>edita</target>
+</trans-unit>
+<trans-unit id="368">
+<source>Create a Slideshow</source>
+<target>Crea una presentació</target>
+</trans-unit>
+<trans-unit id="369">
+<source>Account:</source>
+<target>Compte:</target>
+</trans-unit>
+<trans-unit id="370">
+<source>events</source>
+<target>esdeveniments</target>
+</trans-unit>
+<trans-unit id="371">
+<source>Choose PDF</source>
+<target>Selecciona PDF</target>
+</trans-unit>
+<trans-unit id="372">
+<source>Photo Slideshow</source>
+<target>Presentació de fotos</target>
+</trans-unit>
+<trans-unit id="373">
+<source>Choose Image</source>
+<target>Selecciona imatge</target>
+</trans-unit>
+<trans-unit id="374">
+<source>Add Another Photo</source>
+<target>Afegeix un altra foto</target>
+</trans-unit>
+<trans-unit id="375">
+<source>You are viewing all %type%</source>
+<target>Esteu veient tots/es els/les %type%</target>
+</trans-unit>
+<trans-unit id="376">
+<source>%number% results were found.</source>
+<target>S'han trobat %number% resultats.</target>
+</trans-unit>
+<trans-unit id="377">
+<source>You are viewing events</source>
+<target>Esteu veient els esdeveniments</target>
+</trans-unit>
+<trans-unit id="378">
+<source>Click to Search</source>
+<target>Premeu per cercar</target>
+</trans-unit>
+<trans-unit id="379">
+<source>Save</source>
+<target>Desa</target>
+</trans-unit>
+<trans-unit id="380">
+<source>event</source>
+<target>esdeveniment</target>
+</trans-unit>
+<trans-unit id="381">
+<source>Tags should be separated by commas. Example: student life, chemistry, laboratory</source>
+<target>Las etiquetes s'han de separar amb coma. Exemple: vida d'estudiant, química, laboratori</target>
+</trans-unit>
+<trans-unit id="382">
+<source>Add Linked Account</source>
+<target>Afegeix un compte enllaçat</target>
+</trans-unit>
+<trans-unit id="383">
+<source>Original Dimensions:</source>
+<target>Dim. originals:</target>
+</trans-unit>
+<trans-unit id="384">
+<source>More Info</source>
+<target>Més informació</target>
+</trans-unit>
+<trans-unit id="385">
+<source>This Page</source>
+<target>Aquesta pàgina</target>
+</trans-unit>
+<trans-unit id="386">
+<source>Uploaded:</source>
+<target>Penjat:</target>
+</trans-unit>
+<trans-unit id="387">
+<source>Back to list</source>
+<target>Torna a la llista</target>
+</trans-unit>
+<trans-unit id="388">
+<source>Select a JPEG, PNG or GIF file</source>
+<target>Seleccioneu un fitxer JPEG, PNG o GIF</target>
+</trans-unit>
+<trans-unit id="389">
+<source>sign in</source>
+<target>Identificar-se</target>
+</trans-unit>
+<trans-unit id="390">
+<source>There are no events that match the criteria you have specified.</source>
+<target>Cap esdeveniment concorda amb els criteris especificats.</target>
+</trans-unit>
+<trans-unit id="391">
+<source>People</source>
+<target>Gent</target>
+</trans-unit>
+<trans-unit id="392">
+<source>&lt;span class="icon"&gt;&lt;/span&gt;Clear Search</source>
+<target>&lt;span class="icon"&gt;&lt;/span&gt;Esborrar la recerca</target>
+</trans-unit>
+<trans-unit id="393">
+<source>Local</source>
+<target>Local</target>
+</trans-unit>
+<trans-unit id="394">
+<source>Page Slug</source>
+<target>Camí</target>
+</trans-unit>
+<trans-unit id="395">
+<source>Media Types</source>
+<target>Tipus multimèdia</target>
+</trans-unit>
+<trans-unit id="396">
+<source>Choose Images</source>
+<target>Selecciona imatges</target>
+</trans-unit>
+<trans-unit id="397">
+<source>Page Template</source>
+<target>Plantilla</target>
+</trans-unit>
+<trans-unit id="398">
+<source>Search Services</source>
+<target>Cerca serveis</target>
+</trans-unit>
+<trans-unit id="399">
+<source>Configure %service%</source>
+<target>Configura %service%</target>
+</trans-unit>
+<trans-unit id="400">
+<source>History</source>
+<target>Historial</target>
+</trans-unit>
+<trans-unit id="401">
+<source>By Category and Tag</source>
+<target>Per categoria i etiqueta</target>
+</trans-unit>
+<trans-unit id="402">
+<source>Linked Accounts</source>
+<target>Comptes enllaçats</target>
+</trans-unit>
+<trans-unit id="403">
+<source>New Event</source>
+<target>Nou esdeveniment</target>
+</trans-unit>
+<trans-unit id="404">
+<source>Download Original</source>
+<target>Descarregueu l'original</target>
+</trans-unit>
+<trans-unit id="405">
+<source>Choose Events</source>
+<target>Selecciona esdeveniments</target>
+</trans-unit>
+<trans-unit id="406">
+<source>Add This Account</source>
+<target>Afegeix aquest compte</target>
+</trans-unit>
+<trans-unit id="407">
+<source>Links</source>
+<target>Enllaços</target>
+</trans-unit>
+<trans-unit id="408">
+<source>Credits</source>
+<target>Crèdits</target>
+</trans-unit>
+<trans-unit id="409">
+<source>Automatic Table of Contents</source>
+<target>Taula de continguts (automàtica)</target>
+</trans-unit>
+<trans-unit id="410">
+<source>Select an Image</source>
+<target>Seleccioneu una imatge</target>
+</trans-unit>
+<trans-unit id="411">
+<source>M</source>
+<target>dl</target>
+</trans-unit>
+<trans-unit id="412">
+<source>Logged in as</source>
+<target>Identificat com</target>
+</trans-unit>
+<trans-unit id="413">
+<source>Login</source>
+<target>Inicieu sessió</target>
+</trans-unit>
+<trans-unit id="414">
+<source>Credit:</source>
+<target>Crèdit:</target>
+</trans-unit>
+<trans-unit id="415">
+<source>Create Page</source>
+<target>Creeu una pàgina</target>
+</trans-unit>
+<trans-unit id="416">
+<source>Page Type</source>
+<target>Tipus de pàgina</target>
+</trans-unit>
+<trans-unit id="417">
+<source>Who can edit this page?</source>
+<target>Qui pot modificar aquesta pàgina?</target>
+</trans-unit>
+<trans-unit id="418">
+<source>Update</source>
+<target>Actualitzar</target>
+</trans-unit>
+<trans-unit id="419">
+<source>Select to Add</source>
+<target>Seleccioneu per afegir</target>
+</trans-unit>
+<trans-unit id="420">
+<source>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="421">
+<source>Comments are enabled</source>
+<target>Els comentaris estan habilitats</target>
+</trans-unit>
+<trans-unit id="422">
+<source>You are changing templates. Be sure to save any changes to the content at right before saving this change.</source>
+<target>Esteu canviant les plantilles. Assegureu-vos de desar qualsevol canvi en els continguts de la dreta abans de continuar.</target>
+</trans-unit>
+<trans-unit id="423">
+<source>allow others to edit this post</source>
+<target>permetre a altres editar aquesta entrada</target>
+</trans-unit>
+<trans-unit id="424">
+<source>Error 404 &amp;mdash; The page you are looking for could not be found.</source>
+<target>Error 404 &amp;mdash; No s'ha pogut trobar la pàgina que esteu cercant.</target>
+</trans-unit>
+<trans-unit id="425">
+<source>You are viewing all posts</source>
+<target>Esteu veient totes les entrades</target>
+</trans-unit>
+<trans-unit id="426">
+<source>Save Changes</source>
+<target>Desa els canvis</target>
+</trans-unit>
+<trans-unit id="427">
+<source>Move</source>
+<target>Mou</target>
+</trans-unit>
+<trans-unit id="428">
+<source>Filtered Feed</source>
+<target>Canal filtrat</target>
+</trans-unit>
+<trans-unit id="429">
+<source>Add to Google Calendar</source>
+<target>Afegeix a Google Calendar</target>
+</trans-unit>
+<trans-unit id="430">
+<source>Use this slot to add raw HTML markup, such as embed codes.</source>
+<target>Useu aquest espai per agregar codi HTML directe, com ara bé codi incrustat.</target>
+</trans-unit>
+<trans-unit id="431">
+<source>view</source>
+<target>mostra</target>
+</trans-unit>
+<trans-unit id="432">
+<source>Default Page (without sidebar)</source>
+<target>Pàgina por defecte (sense columna lateral)</target>
+</trans-unit>
+<trans-unit id="433">
+<source>Browse by</source>
+<target>Navegueu per</target>
+</trans-unit>
+<trans-unit id="434">
+<source>Area</source>
+<target>Àrea</target>
+</trans-unit>
+<trans-unit id="435">
+<source>Create</source>
+<target>Creeu</target>
+</trans-unit>
+<trans-unit id="436">
+<source>Title: %t%</source>
+<target>Títol: %t%</target>
+</trans-unit>
+<trans-unit id="437">
+<source>Location</source>
+<target>Ubicació</target>
+</trans-unit>
+<trans-unit id="438">
+<source>URL: %r%</source>
+<target>URL: %r%</target>
+</trans-unit>
+<trans-unit id="439">
+<source>Choose Video</source>
+<target>Selecciona vídeo</target>
+</trans-unit>
+<trans-unit id="440">
+<source>remove this item</source>
+<target>elimina aquest ítem</target>
+</trans-unit>
+<trans-unit id="441">
+<source>Replace Thumbnail</source>
+<target>Substitueix la miniatura</target>
+</trans-unit>
+<trans-unit id="442">
+<source>Use the browsing and searching features to locate the %type% you want, then click on that %type% to select it.</source>
+<target>Useu la funció de recerca per a localitzar %type% que voleu, tot seguit premeu el/la %type% per a seleccionar-lo.</target>
+</trans-unit>
+<trans-unit id="443">
+<source>Add this account so that all new media associated with it will automatically be added to the media library on an ongoing basis.</source>
+<target>Afegiu aquest compte per a que tots els fitxers associats s'incorporin automàticament a la biblioteca multimèdia de manera regular.</target>
+</trans-unit>
+<trans-unit id="444">
+<source>S</source>
+<target>ds</target>
+</trans-unit>
+<trans-unit id="445">
+<source>Choose images</source>
+<target>Selecciona imatges</target>
+</trans-unit>
+<trans-unit id="446">
+<source>Sign In</source>
+<target>Inicieu sessió</target>
+</trans-unit>
+<trans-unit id="447">
+<source>User Preferences for %name%</source>
+<target>Preferències d'usuària per a %name%</target>
+</trans-unit>
+<trans-unit id="448">
+<source>Diff</source>
+<target>Diferència</target>
+</trans-unit>
+<trans-unit id="449">
+<source>Schedule</source>
+<target>Programa</target>
+</trans-unit>
+<trans-unit id="450">
+<source>Default Page (without title)</source>
+<target>Pàgina por defecte (sense títol)</target>
+</trans-unit>
+<trans-unit id="451">
+<source>View Permissions</source>
+<target>Permisos de lectura</target>
+</trans-unit>
+<trans-unit id="452">
+<source>Start Date</source>
+<target>Inici</target>
+</trans-unit>
+<trans-unit id="453">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href="http://www.getfirefox.com"&gt;Firefox&lt;/a&gt; &lt;a href="http://www.google.com/chrome"&gt;Chrome&lt;/a&gt; 	&lt;a href="http://www.apple.com/safari/download/"&gt;Safari&lt;/a&gt; &lt;a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx"&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</source>
+<target>Esteu fent servir IE6! Això és terrible! Per favor, actualitzeu el vostre navegador web:
+&lt;a href="http://www.getfirefox.com"&gt;Firefox&lt;/a&gt; &lt;a href="http://www.google.com/chrome"&gt;Chrome&lt;/a&gt; &lt;a href="http://www.apple.com/safari/download/"&gt;Safari&lt;/a&gt; &lt;a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx"&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</target>
+</trans-unit>
+<trans-unit id="454">
+<source>cancel</source>
+<target>cancel·lar</target>
+</trans-unit>
+<trans-unit id="455">
+<source>When you're done, click "Save."</source>
+<target>En acabar, premeu "Desa".</target>
+</trans-unit>
+<trans-unit id="456">
+<source>No matching videos were found. Try being less specific.</source>
+<target>No s'han trobat vídeos. Intenteu ser menys específic.</target>
+</trans-unit>
+<trans-unit id="457">
+<source>Submit</source>
+<target>Envia</target>
+</trans-unit>
+<trans-unit id="458">
+<source>Upload Images</source>
+<target>Puja imatges</target>
+</trans-unit>
+<trans-unit id="459">
+<source>Culture</source>
+<target>Cultura</target>
+</trans-unit>
+<trans-unit id="460">
+<source>Search Media</source>
+<target>Cerca fitxers</target>
+</trans-unit>
+<trans-unit id="461">
+<source>Year</source>
+<target>Any</target>
+</trans-unit>
+<trans-unit id="462">
+<source>Search Posts</source>
+<target>Cerca entrades</target>
+</trans-unit>
+<trans-unit id="463">
+<source>My Section</source>
+<target>La meua secció</target>
+</trans-unit>
+<trans-unit id="464">
+<source>Are you sure you want to delete this page? This operation cannot be undone.</source>
+<target>Esteu segura que voleu esborrar aquesta pàgina? Aquesta operació no es pot desfer.</target>
+</trans-unit>
+<trans-unit id="465">
+<source>Add by Embed Code</source>
+<target>Afegeix amb codi incrustat</target>
+</trans-unit>
+<trans-unit id="466">
+<source>Choose Editors</source>
+<target>Selecciona editors</target>
+</trans-unit>
+<trans-unit id="467">
+<source>Add PDF</source>
+<target>Afegeix PDF</target>
+</trans-unit>
+<trans-unit id="468">
+<source>End Date</source>
+<target>Fi</target>
+</trans-unit>
+<trans-unit id="469">
+<source>Take advantage of all of the videos and media you have stored on your favorite web services.</source>
+<target>Aprofiteu-vos dels vídeos i altres fitxers multimèdia que tingueu emmagatzemats a serveis web.</target>
+</trans-unit>
+<trans-unit id="470">
+<source>%count% items</source>
+<target>%count% ítems</target>
+</trans-unit>
+<trans-unit id="471">
+<source>Number of Posts</source>
+<target>Nombre d'entrades</target>
+</trans-unit>
+<trans-unit id="472">
+<source>ID</source>
+<target>ID</target>
+</trans-unit>
+<trans-unit id="473">
+<source>More Options...</source>
+<target>Més opcions...</target>
+</trans-unit>
+<trans-unit id="475">
+<source>Are you sure you want to delete this slot?</source>
+<target>Esteu segura que voleu esborrar aquest espai?</target>
+</trans-unit>
+<trans-unit id="476">
+<source>Media categories list</source>
+<target>Llista de categories multimèdia</target>
+</trans-unit>
+<trans-unit id="477">
+<source>Save Embed</source>
+<target>Desa el codi</target>
+</trans-unit>
+<trans-unit id="478">
+<source>T</source>
+<target>dt</target>
+</trans-unit>
+<trans-unit id="479">
+<source>Invalid mime type (%mime_type%).</source>
+<target>Tipus mime invàlid (%mime_type%).</target>
+</trans-unit>
+<trans-unit id="480">
+<source>Delete Post</source>
+<target>Esborra entrada</target>
+</trans-unit>
+<trans-unit id="481">
+<source>Tags:</source>
+<target>Etiquetes:</target>
+</trans-unit>
+<trans-unit id="482">
+<source>add</source>
+<target>afegeix</target>
+</trans-unit>
+<trans-unit id="483">
+<source>Page Title</source>
+<target>Títol</target>
+</trans-unit>
+<trans-unit id="484">
+<source>View Website</source>
+<target>Visiteu la pàgina web</target>
+</trans-unit>
+<trans-unit id="485">
+<source>Download Original%buttonspan%</source>
+<target>Descarregueu l'original%buttonspan%</target>
+</trans-unit>
+<trans-unit id="486">
+<source>Delete Event</source>
+<target>Esborra esdeveniment</target>
+</trans-unit>
+<trans-unit id="487">
+<source>Page Engine</source>
+<target>Motor</target>
+</trans-unit>
+<trans-unit id="488">
+<source>Find in Media</source>
+<target>Trobar a Multimèdia</target>
+</trans-unit>
+<trans-unit id="489">
+<source>Number of Events to Display</source>
+<target>Nombre d'esdeveniments a mostrar</target>
+</trans-unit>
+<trans-unit id="490">
+<source>You must configure these services before you can use them.</source>
+<target>Heu de configurar aquests serveis abans de poder usar-los.</target>
+</trans-unit>
+<trans-unit id="491">
+<source>You are viewing all events</source>
+<target>Esteu veient tots els esdeveniments</target>
+</trans-unit>
+<trans-unit id="492">
+<source>Email</source>
+<target>Correu electrònic</target>
+</trans-unit>
+<trans-unit id="493">
+<source>Annotate Images</source>
+<target>Anota les imatges</target>
+</trans-unit>
+<trans-unit id="494">
+<source>Cascade status changes to children</source>
+<target>Aplica l'estat a les sub-pàgines</target>
+</trans-unit>
+<trans-unit id="495">
+<source>post</source>
+<target>entrada</target>
+</trans-unit>
+<trans-unit id="496">
+<source>Full Name</source>
+<target>Nom complet</target>
+</trans-unit>
+<trans-unit id="497">
+<source>That is not a valid PDF.</source>
+<target>Aquest no és un PDF vàlid</target>
+</trans-unit>
+<trans-unit id="498">
+<source>for %date%</source>
+<target>amb data %date%</target>
+</trans-unit>
+<trans-unit id="499">
+<source>Add Content</source>
+<target>Afegeix contingut</target>
+</trans-unit>
+<trans-unit id="500">
+<source>Tags should be separated by commas. Example: teachers, kittens, buildings</source>
+<target>Les etiquetes han d'estar separades per comes. Exemple: mestres, gatets, edificis</target>
+</trans-unit>
+<trans-unit id="501">
+<source>Latest version</source>
+<target>Última versió</target>
+</trans-unit>
+<trans-unit id="502">
+<source>with the tag %tag%</source>
+<target>amb l'etiqueta %tag%</target>
+</trans-unit>
+<trans-unit id="503">
+<source>in the category %category%</source>
+<target>de la categoria %category%</target>
+</trans-unit>
+<trans-unit id="504">
+<source>Draft</source>
+<target>Esborrany</target>
+</trans-unit>
+<trans-unit id="505">
+<source>Privilege</source>
+<target>Privilegi</target>
+</trans-unit>
+<trans-unit id="506">
+<source>&lt;span&gt;by the author&lt;/span&gt; %author%</source>
+<target>&lt;span&gt;per l'autor/a&lt;/span&gt; %author%</target>
+</trans-unit>
+<trans-unit id="507">
+<source>matching the search %search%</source>
+<target>que coincideixen amb la cerca %search%</target>
+</trans-unit>
+<trans-unit id="508">
+<source>Categories:</source>
+<target>Categories:</target>
+</trans-unit>
+<trans-unit id="509">
+<source>Use this slot with caution. If bad markup causes the page to become uneditable, add ?safemode=1 to the URL and edit the slot to correct the markup.</source>
+<target>Useu aquest espai amb cura. Si un codi incorrecte provoca que la pàgina no es pugui editar, afegiu ?safemode=1 a l'URL i editeu el contingut de l'espai.</target>
+</trans-unit>
+<trans-unit id="510">
+<source>Smart Slideshow</source>
+<target>Presentació intel·ligent</target>
+</trans-unit>
+<trans-unit id="511">
+<source>(page %%page%%/%%nb_pages%%)</source>
+<target>(pàgina %%page%%/%%nb_pages%%)</target>
+</trans-unit>
+<trans-unit id="512">
+<source>Permid</source>
+<target>Permid</target>
+</trans-unit>
+<trans-unit id="513">
+<source>Select one or more %typeplural% by clicking on them below. Drag and drop %typeplural%  to reorder them within the list of selected items. Remove %typeplural% by clicking on the trashcan.</source>
+<target>Seleccioneu un/a o més %typeplural% fent clic sobre ells/es. Arrossegueu i deixeu anar %typeplural% dintre de la llista d'ítems seleccionats. Elimineu %typeplural% prement sobre el cubell.</target>
+</trans-unit>
+<trans-unit id="514">
+<source>Filter</source>
+<target>Filtre</target>
+</trans-unit>
+<trans-unit id="515">
+<source>Individuals</source>
+<target>Individus</target>
+</trans-unit>
+<trans-unit id="516">
+<source>reset</source>
+<target>reinicia</target>
+</trans-unit>
+<trans-unit id="517">
+<source>+ New Category</source>
+<target>+ Nova categoria</target>
+</trans-unit>
+<trans-unit id="518">
+<source>Month</source>
+<target>Mes</target>
+</trans-unit>
+<trans-unit id="519">
+<source>Save Images</source>
+<target>Desa les imatges</target>
+</trans-unit>
+<trans-unit id="520">
+<source>Not a valid embed code</source>
+<target>No és un codi incrustat vàlid</target>
+</trans-unit>
+<trans-unit id="521">
+<source>Page Permissions</source>
+<target>Permisos</target>
+</trans-unit>
+<trans-unit id="522">
+<source>Th</source>
+<target>dj</target>
+</trans-unit>
+<trans-unit id="523">
+<source>Choose Posts</source>
+<target>Selecciona entrades</target>
+</trans-unit>
+<trans-unit id="524">
+<source>Who can see this page?</source>
+<target>Qui pot veure aquesta pàgina?</target>
+</trans-unit>
+<trans-unit id="525">
+<source>Read More</source>
+<target>Llegiu més</target>
+</trans-unit>
+<trans-unit id="526">
+<source>Thumbnail</source>
+<target>Miniatura</target>
+</trans-unit>
+<trans-unit id="527">
+<source>There are no categories that contain media.</source>
+<target>No hi ha categories amb arxius multimèdia.</target>
+</trans-unit>
+<trans-unit id="528">
+<source>+ Add a Group</source>
+<target>+ Afegeix un grup</target>
+</trans-unit>
+<trans-unit id="529">
+<source>Select Categories</source>
+<target>Selecció de categories</target>
+</trans-unit>
+<trans-unit id="530">
+<source>Remove</source>
+<target>Elimina</target>
+</trans-unit>
+<trans-unit id="531">
+<source>When you link your accounts, new videos and other media are automatically pulled into your site\'s media library. It updates itself by checking for new media every 20 minutes without you having to do anything more.</source>
+<target>Quan enllaceu els comptes, els nous vídeos i fitxers s'importen automàticament a la biblioteca multimèdia. S'actualitza cada 20 minuts sense requerir cap més acció per part vostra.</target>
+</trans-unit>
+<trans-unit id="532">
+<source>Twitter &amp; RSS</source>
+<target>Twitter i RSS</target>
+</trans-unit>
+<trans-unit id="533">
+<source>Not a valid YouTube URL</source>
+<target>URL de YouTube invàlid</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
+

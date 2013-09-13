@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/apostrophe-standby/style.css" type="text/css" />
+    <title>Deploying Updates</title>
+    <meta http-equiv="refresh" content="10">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Deploying Updates</h1>
+      <p>This site is being updated. The site will be back shortly. This page will automatically update until the site returns.</p>
+      <p>Thanks for your patience!</p>
+    </div>
+    <script type="text/javascript">
+      // If we are iframed on an existing page, bust out
+      if (window.location.href != window.top.location.href)
+      {
+        window.top.location.href = window.location.href;
+      }
+      // If we are being AJAXed into an existing page, bust out. Check by looking
+      // for jQuery and .a-wrapper being present. They won't both be in this standby page.
+      // Don't lose the current URL, they'd like to come back presumably
+      if ($ && $('.a-wrapper').length)
+      {
+        window.location.reload();
+      }
+    </script>
+  </body>
+</html>

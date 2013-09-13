@@ -1,0 +1,572 @@
+@import 'a-helpers';
+
+@media-box-background:#F2F2F2;
+
+@a-media-box
+{
+  display: block;
+  background-color: @media-box-background;
+  border: 1px solid darken(@media-box-background, 5%);
+  @a-border-radius(4px);
+}
+
+@box-sizing(@sizing:border-box;) {
+  -moz-box-sizing: @sizing;
+  -webkit-box-sizing: @sizing;
+  box-sizing: @sizing;
+}
+
+// MEDIA GENERAL STYLES
+.a-media .a-content {
+  .a-media-library
+  {
+    display: block;
+    clear: both;
+    .a-area-body
+    {
+      width: 100%;
+    }
+  }
+}
+
+// MEDIA HEADER
+.a-media .a-admin-header .a-media-service-controls
+{
+  margin-top: 6px;
+  .a-media-link-accounts
+  {
+    margin-top: 0;
+  }
+  .a-media-control-separator
+  {
+    width: 1px;
+    min-height:21px;
+    height: 100%;
+    margin:0 10px;
+    background-color: #eee;
+  }
+}
+
+
+// MEDIA SEARCH
+
+.a-media-search
+{
+  display: block;
+  clear: both;
+  .a-form-row
+  {
+    margin: 0;
+  }
+ input.a-html5-search-field
+ {
+  display: block;
+  width: 100%;
+  -webkit-appearance: none;
+  font-size: 18px;
+  height: 25px;
+  line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #e2e2e2;
+  @a-border-radius(4px);
+  background: #fff;
+  ::-webkit-search-cancel-button { display: none; }
+ }
+ a.a-clear-search,
+ input.a-search-submit
+ {
+  display: inline;
+  position: absolute;
+  right:3px;
+  top:2px;
+ }
+ input.a-search-submit
+ {
+  height: 22px;
+  width: 22px;
+  background:url(/apostrophePlugin/images/a-search-submit.png) no-repeat -5px -19px;
+ }
+}
+
+// MEDIA SUBNAV
+.a-media-subnav-links
+{
+  .a-media-subnav-link-item
+  {
+    display: block;
+    clear: both;
+    @clearfix;
+    margin: 5px 0;
+    .a-btn
+    {
+      display: block;
+      float: none;
+      clear: both;
+      font-size: 15px;
+    }
+  }
+}
+
+// MEDIA UPLOADER
+.a-media-library-upload,
+.a-media-library-upload-fallback
+{
+  @a-media-box;
+  padding:15px;
+  margin-bottom: 20px;
+  display: block;
+  @clearfix;
+}
+
+// Start Media Uploader
+.a-media-library-upload
+{
+  .a-file-upload-list,
+  .a-media-library-upload-inner,
+  .a-file-uploader-input,
+  .a-media-library-upload-form,
+  .a-media-upload-controls
+  {
+    display: block;
+    position: relative;
+    clear: both;
+    @clearfix;
+  }
+
+  hr.a-hr
+  {
+    margin:15px 0;
+  }
+
+  // File Uploaders
+  .a-file-uploader-input-wrapper,
+  .a-file-uploader-dragbox
+  {
+    display: block;
+    position: relative;
+    clear: both;
+    @box-sizing(content-box);
+  }
+
+  // file uploader (Input)
+  .a-file-uploader-input-wrapper
+  {
+    float: left;
+    &:hover
+    {
+      h3.a-file-uploader-input-overlay
+      {
+        span.a-media-upload-btn
+        {
+          background-color: darken(#e6e6e6, 5%);
+          border: 1px solid darken(#ccc, 5%);
+        }
+      }
+    }
+    input.a-file-uploader-input,
+    .a-file-upload-btn
+    {
+      height: 30px;
+      line-height: 30px;
+      font-size: 20px;
+    }
+    .a-file-upload-btn
+    {
+      padding-left: 24px;
+      padding-right: 7px;
+      margin-right: 5px;
+      .icon
+      {
+        left:2px;
+      }
+    }
+    input.a-file-uploader-input
+    {
+      position: absolute;
+      top:0;
+      right:0;
+      bottom:0;
+      left:0;
+      opacity:0;
+      // hides the "button" on the input
+      // also breaks the button in firefox :(
+      // text-indent: -9999px;
+      &:hover
+      {
+        cursor:pointer;
+      }
+    }
+  }
+
+  // Drag box
+  .a-file-uploader-dragbox
+  {
+    height: 32px;
+    line-height: 30px;
+    font-size: 20px;
+    padding:6px;
+    background-color: lighten(@media-box-background, 2%);
+    border: 1px dashed fadeout(#ccc, 50%);
+    @a-border-radius(4px);
+    @a-transition(.2s;ease-in-out );
+    .a-file-drag-help
+    {
+      line-height: 35px;
+      text-align: center;
+    }
+    .a-file-uploader-embed
+    {
+      float: right;
+      display: block;
+      height:100%;
+      .a-media-embed-link
+      {
+        margin-top: 6px;
+        height: 20px;
+        line-height: 20px;
+      }
+    }
+    &.drag-over
+    {
+      background-color: lighten(@media-box-background, 10%);
+    }
+  }
+
+  // File upload list/thumbnails
+
+  .a-file-upload-list
+  {
+    z-index:50;
+  }
+
+  // Thumbnails
+  .a-file-upload-thumbnail
+  {
+    display: inline;
+    position: relative;
+    float: left;
+    clear: none;
+    @clearfix;
+    width: 22.05%;
+    margin-top: 10px;
+    margin-right: 3.8%;
+    opacity:.5;
+    @a-transition(.5s);
+    &:nth-child(4n)
+    {
+      margin-right: 0;
+    }
+    &.done
+    {
+      opacity: 1;
+    }
+    &.error
+    {
+      opacity: 0;
+    }
+    .a-file-upload-image-item
+    {
+      width: 100%;
+      height:100px;
+      overflow: hidden;
+      position: relative;
+      img
+      {
+        max-width:100%;
+      }
+    }
+  }
+
+
+
+  // edit/delete controls under thumbnails
+  .a-media-upload-controls
+  {
+    float: none;
+    > div
+    {
+      float: left;
+      display: inline;
+      position: relative;
+      clear: none;
+    }
+    .a-media-upload-title
+    {
+      display: block;
+      clear: both;
+      overflow: hidden;
+      margin: 5px 0;
+      width: 68%;
+      white-space: nowrap;
+    }
+    .a-controls
+    {
+      position: absolute;
+      right:0;
+    }
+  }
+  // edit form
+  .editing.a-file-upload-thumbnail
+  {
+    .a-file-upload-image-item
+    {
+      z-index: 110;
+    }
+    .a-upload-form-container
+    {
+      position: absolute;
+      top:-7px;
+      left:-7px;
+      z-index:100;
+    }
+  }
+
+  .a-upload-form-container
+  {
+    padding:7px;
+    padding-top: 120px;
+    width:350px;
+    background-color: #fff;
+    @a-border-radius(4px);
+    @a-box-shadow(0px 0px 10px fadeout(#000, 85%));
+    .a-btn
+    {
+      margin-left: 2px;
+    }
+  }
+}
+
+.a-file-upload-preview
+{
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 199;
+}
+
+.a-form .a-form-controls
+{
+  display: none;
+  clear: both;
+  &.is-shown
+  {
+    display: block;
+  }
+  .a-form-submit
+  {
+    float: right;
+  }
+}
+
+// END Media Uploader
+
+@transition(@properties) {
+  // property time ease
+  -webkit-transition: @properties;
+  -moz-transition: @properties;
+  -o-transition: @properties;
+  transition: @properties;
+}
+
+// Start embed toggle
+.a-media-library-embed-inner
+{
+  @a-media-box;
+  display: block;
+  padding:15px;
+  margin-bottom: 20px;
+  @clearfix;
+}
+
+.a-media-library-embed
+{
+  @clearfix;
+  overflow: hidden;
+  .a-media-library-embed-inner
+  {
+    max-height: 0px;
+    opacity:0;
+    padding-top:0;
+    padding-bottom: 0;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    clear: both;
+    @transition(all .2s ease-in-out);
+    .a-form-field
+    {
+      float: none;
+      display: block;
+      clear: both;
+      textarea
+      {
+        display: block;
+        min-height: 250px;
+      }
+    }
+  }
+  &.embed-open
+  {
+    .a-media-library-embed-inner
+    {
+      opacity:1;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      max-height:2000px;
+    }
+  }
+}
+
+// Media Alert boxes
+@alertColor:@a-button-color;
+
+.a-media-alert
+{
+  @box-sizing(content-box);
+  display: block;
+  position: relative;
+  clear: both;
+  background-color: lighten(@alertColor, 30%);
+  border: 1px solid lighten(@alertColor, 20%);
+  color: darken(@alertColor, 20%);
+  text-shadow:0px 1px fadeout(#fff, 20%);
+  padding: 0 10px;
+  height: 35px;
+  line-height: 35px;
+  @a-border-radius(4px);
+  margin-bottom: 5px;
+  @a-transition;
+  &:hover
+  {
+    @alertColor:darken(@alertColor, 10%);
+    background-color: lighten(@alertColor, 30%);
+    border: 1px solid lighten(@alertColor, 20%);
+    color: darken(@alertColor, 20%);
+  }
+  h4
+  {
+    margin: 0;
+    padding: 0;
+    margin-top: 9px;
+  }
+  strong
+  {
+    font-weight: bold;
+  }
+  .a-media-alert-clear
+  {
+    display: block;
+    position: absolute;
+    text-indent: -9999px;
+    overflow: hidden;
+    bottom:0;
+    left:0;
+    right:0px;
+    top:0;
+    i.icon
+    {
+      position: absolute;
+      right:0;
+      top:0;
+      background-image: url('/apostropheMediaEnhancementsPlugin/images/a-media-icon-close.png');
+      background-position: center;
+      opacity:.7;
+      background-repeat: no-repeat;
+      overflow: hidden;
+      text-indent: -9999px;
+      height: 100%;
+      width: 30px;
+    }
+  }
+}
+
+// older browser fallback
+
+.a-media-library-upload-fallback
+{
+  display: none;
+  .a-media-add-subheading
+  {
+    min-height:0;
+    float: none;
+    display: block;
+    width: auto;
+    border-right: none;
+  }
+}
+
+.a-no-filereader
+{
+  .a-media-library-upload
+  {
+    display: none;
+  }
+  .a-media-library-upload-fallback
+  {
+    display: block;
+  }
+}
+
+.a-no-draganddrop
+{
+  .a-file-drag-description
+  {
+    display: none;
+  }
+}
+
+// Batch editing form
+.a-ui.a-media-edit-multiple-wrapper
+{
+  @box-sizing;
+  @a-media-box;
+  padding: 20px;
+  margin-bottom: 30px;
+  .a-media-selection-list-item
+  {
+    // can't reorder in this view
+    color: pointer;
+  }
+}
+
+.a-media-edit-multiple,
+.a-media-edit-multiple-wrapper #a-media-selection-wrapper
+{
+  @clearfix;
+  width: 100%;
+}
+
+.a-media-edit-multiple-wrapper #a-media-selection-list,
+.a-media-edit-multiple-form
+{
+  display: inline;
+  position: relative;
+  float: left;
+  vertical-align: top;
+}
+
+.a-media-edit-multiple-wrapper #a-media-selection-list
+{
+  width: 50%;
+  .a-media-title
+  {
+    display: block;
+    clear: both;
+    margin-top: 5px;
+  }
+  .a-media-selection-list-item
+  {
+    width: 100%;
+    .a-thumbnail-container
+    {
+      background-position: left;
+    }
+  }
+}
+
+.a-ui .a-media-edit-multiple-form
+{
+  @box-sizing;
+  padding-left: 20px;
+}
